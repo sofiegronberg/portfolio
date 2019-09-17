@@ -16,6 +16,10 @@ span.text-wrap {
   	font-family: Trebuchet MS !important;
   	font-size: 16px !important;
 }
+
+#site-header-inner {
+ 	box-shadow: 0px 5px 7px 0px rgba(234,234,234,1);
+}
   
 @font-face {
     font-family: 'Montserrat-Regular';
