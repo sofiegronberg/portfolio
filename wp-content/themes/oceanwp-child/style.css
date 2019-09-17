@@ -12,9 +12,11 @@
  Text Domain:  oceanwpchild
 */
 
-body{
-    background-color: red;}
-
+span.text-wrap {
+  	font-family: Trebuchet MS !important;
+  	font-size: 16px !important;
+}
+  
 @font-face {
     font-family: 'Montserrat-Regular';
     src: url('fonts/Montserrat-Regular.ttf')  format('truetype');
@@ -55,4 +57,3 @@ body{
     font-family: 'Montserrat-SemiBoldItalic';
     src: url('fonts/Montserrat-SemiBoldItalic.ttf')  format('truetype');
 }
-
