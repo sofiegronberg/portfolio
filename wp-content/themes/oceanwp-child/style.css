@@ -1,0 +1,54 @@
+/*
+ Theme Name:   OceanWP Child
+ Theme URI:    http://public_html/portfolio/wp-content/themes/oceanwp-child
+ Description:  OceanWP Child Theme
+ Author:       Sofie Gronberg
+ Author URI:   http://sofiegronberg.dk
+ Template:     oceanwp
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  oceanwpchild
+*/
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('fonts/Montserrat-Regular.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-RegularItalic';
+    src: url('fonts/Montserrat-RegularItalic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('fonts/Montserrat-Bold.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-BoldItalic';
+    src: url('fonts/Montserrat-BoldItalic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('fonts/Montserrat-Medium.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-MediumItalic';
+    src: url('fonts/Montserrat-MediumItalic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('fonts/Montserrat-Light.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-LightItalic';
+    src: url('fonts/Montserrat-LightItalic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('fonts/Montserrat-SemiBold.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-SemiBoldItalic';
+    src: url('fonts/Montserrat-SemiBoldItalic.ttf')  format('truetype');
+}

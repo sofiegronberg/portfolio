@@ -1,0 +1,61 @@
+.elementor-115 .elementor-element.elementor-element-498eab34 > .elementor-container{min-height:0px;}.elementor-115 .elementor-element.elementor-element-498eab34 > .elementor-container:after{content:"";min-height:inherit;}.elementor-115 .elementor-element.elementor-element-498eab34 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-115 .elementor-element.elementor-element-498eab34:not(.elementor-motion-effects-element-type-background), .elementor-115 .elementor-element.elementor-element-498eab34 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#eaeaea;}.elementor-115 .elementor-element.elementor-element-498eab34{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-115 .elementor-element.elementor-element-498eab34 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-115 .elementor-element.elementor-element-4ae6c781.elementor-column .elementor-column-wrap{align-items:center;}.elementor-115 .elementor-element.elementor-element-4ae6c781.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-115 .elementor-element.elementor-element-4ae6c781.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-115 .elementor-element.elementor-element-9661cae .elementor-text-editor{text-align:left;columns:1;column-gap:0px;}.elementor-115 .elementor-element.elementor-element-9661cae{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:400;}.elementor-115 .elementor-element.elementor-element-9661cae > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-115 .elementor-element.elementor-element-91e9fcb .elementor-text-editor{text-align:right;}.elementor-115 .elementor-element.elementor-element-91e9fcb{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:400;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: normal;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: normal;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-RegularItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 100;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 100;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 500;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 800;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 800;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: bold;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: bold;
+	src: url('http://sofiegronberg.dk/portfolio/wp-content/uploads/2019/09/Montserrat-BoldItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
