@@ -12,8 +12,8 @@
  Text Domain:  oceanwpchild
 */
 
-h1{ color: red;
-}
+body{
+    background-color: red;}
 
 @font-face {
     font-family: 'Montserrat-Regular';
